@@ -4,3 +4,10 @@ A collection of small things I learn day to day across a variety of topics. This
 
 ## 📂 **Structure**
 The repository is organized by categories. Each category contains markdown files for individual topics learned.
+
+## 🧩 **Categories**
+### CSS
+
+- [flex](css/flex.md)
+
+- [grid-template](css/grid-template.md)
